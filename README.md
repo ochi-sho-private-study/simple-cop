@@ -1,0 +1,2 @@
+# simple-cop
+rubocop clone
